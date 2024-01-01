@@ -29,8 +29,8 @@ Make sure you have the following installed:
 Usage
 Run Jupyter Notebook:
 
-bash
-jupyter notebook
+cd bash
+cd jupyter notebook
 
 Open and run the main notebook file (house_price_prediction.ipynb).
 
