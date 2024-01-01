@@ -36,15 +36,15 @@ Open and run the main notebook file (house_price_prediction.ipynb).
 
 Follow the instructions in the notebook to train models and make predictions.
 
-#Project Structure
+# Project Structure
 
 data/: Contains the dataset files.
 notebooks/: Jupyter notebooks for data exploration, preprocessing, and modeling.
 src/: Python source code for utility functions.
 README.md: Project documentation.
 
-##Contributing
+## Contributing
 If you'd like to contribute, please follow the guidelines in CONTRIBUTING.md.
 
-##License
+## License
 This project is licensed under the MIT License.
